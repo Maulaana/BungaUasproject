@@ -1,4 +1,4 @@
-package com.zakii.ahmadzakiaplikasi
+package com.zakii.maulanaaplikasi
 
 import org.junit.Test
 
